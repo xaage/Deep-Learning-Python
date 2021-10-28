@@ -1,6 +1,6 @@
 # Deep Learning Exercises
 
-This repo is a collection of self-learning materials for Deep Learning. It includes one Notebook.
+This repo is a collection of materials for Deep Learning. It includes one Notebook.
 
 ## Projects
 
