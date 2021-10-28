@@ -1,7 +1,5 @@
 # Deep Learning Exercises
 
-This repo is a collection of materials for Deep Learning. It includes one Notebook.
-
 ## Projects
 
 #### PROJECT 1: Neural Networks - Boston Housing Price dataset with Keras
