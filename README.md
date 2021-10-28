@@ -2,6 +2,6 @@
 
 ## Projects
 
-#### PROJECT 1 - Neural Networks: Boston Housing Price dataset
-#### PROJECT 2 - Convolutional Neural Network: CIFAR-10 Image Classification
-#### PROJECT 3 - Recurrent Neural Networks: Daily Temperature Prediction  
+#### PROJECT I - Neural Networks: Boston Housing Price dataset
+#### PROJECT II - Convolutional Neural Network: CIFAR-10 Image Classification
+#### PROJECT III - Recurrent Neural Networks: Daily Temperature Prediction  
