@@ -2,6 +2,6 @@
 
 ## Projects
 
-#### PROJECT 1: Neural Networks - Boston Housing Price dataset with Keras
-#### PROJECT 2: Convolutional Neural Network with CIFAR-10
-#### PROJECT 3: Daily Temperature Prediction Using Recurrent Neural Networks
+#### PROJECT 1 - Neural Networks: Boston Housing Price dataset with Keras
+#### PROJECT 2 - Convolutional Neural Network: CIFAR-10
+#### PROJECT 3 - Recurrent Neural Networks: Daily Temperature Prediction  
